@@ -58,21 +58,21 @@ public class BankManagementGUI  {
     	panel.add(lblNewLabel);
     	
     	JLabel lblNewLabel_1 = new JLabel("");
-    	lblNewLabel_1.setIcon(new ImageIcon("D:\\CSE215L-Section-7-ATM-Management"));
+    	lblNewLabel_1.setIcon(new ImageIcon("D:\\\\CSE215L-Section-7-ATM-Management\\Icon-152-removebg-preview.png"));
     	lblNewLabel_1.setHorizontalAlignment(SwingConstants.LEFT);
     	lblNewLabel_1.setFont(new Font("Tahoma", Font.ITALIC, 15));
     	lblNewLabel_1.setBounds(231, 148, 167, 82);
     	panel.add(lblNewLabel_1);
     	
     	JLabel lblNewLabel_2 = new JLabel("");
-    	lblNewLabel_2.setIcon(new ImageIcon("C:\\Users\\User\\Downloads\\Icon-152-removebg-preview.png"));
+    	lblNewLabel_2.setIcon(new ImageIcon("D:\\\\CSE215L-Section-7-ATM-Management\\Icon-152-removebg-preview.png"));
     	lblNewLabel_2.setHorizontalAlignment(SwingConstants.LEFT);
     	lblNewLabel_2.setFont(new Font("Tahoma", Font.ITALIC, 15));
     	lblNewLabel_2.setBounds(231, 386, 167, 82);
     	panel.add(lblNewLabel_2);
     	
     	JLabel lblNewLabel_2_1 = new JLabel("");
-    	lblNewLabel_2_1.setIcon(new ImageIcon("C:\\Users\\User\\Downloads\\Icon-152-removebg-preview.png"));
+    	lblNewLabel_2_1.setIcon(new ImageIcon("D:\\\\CSE215L-Section-7-ATM-Management\\Icon-152-removebg-preview.png"));
     	lblNewLabel_2_1.setHorizontalAlignment(SwingConstants.LEFT);
     	lblNewLabel_2_1.setFont(new Font("Tahoma", Font.ITALIC, 15));
     	lblNewLabel_2_1.setBounds(231, 266, 167, 82);
