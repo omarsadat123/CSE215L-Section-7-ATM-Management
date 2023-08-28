@@ -52,13 +52,13 @@ public class BankManagementGUI  {
     	
     	JLabel lblNewLabel = new JLabel("");
     	lblNewLabel.setHorizontalAlignment(SwingConstants.LEFT);
-    	lblNewLabel.setIcon(new ImageIcon("C:\\Users\\User\\Downloads\\Icon-152-removebg-preview.png"));
+    	lblNewLabel.setIcon(new ImageIcon("D:\\CSE215L-Section-7-ATM-Management\\Icon-152-removebg-preview.png"));
     	lblNewLabel.setBounds(231, 31, 167, 82);
     	lblNewLabel.setFont(new Font("Tahoma", Font.ITALIC, 15));
     	panel.add(lblNewLabel);
     	
     	JLabel lblNewLabel_1 = new JLabel("");
-    	lblNewLabel_1.setIcon(new ImageIcon("C:\\Users\\User\\Downloads\\Icon-152-removebg-preview.png"));
+    	lblNewLabel_1.setIcon(new ImageIcon("D:\\CSE215L-Section-7-ATM-Management"));
     	lblNewLabel_1.setHorizontalAlignment(SwingConstants.LEFT);
     	lblNewLabel_1.setFont(new Font("Tahoma", Font.ITALIC, 15));
     	lblNewLabel_1.setBounds(231, 148, 167, 82);
