@@ -20,6 +20,7 @@ public class Withdrawal {
     	 frame.getContentPane().setBackground(new Color(128, 128, 128));
          frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
          frame.setSize(670, 700);
+         frame.setResizable(false);
          frame.setLocationRelativeTo(null);
          frame.setVisible(true);
          frame.getContentPane().setLayout(null);

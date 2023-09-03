@@ -27,7 +27,7 @@ import javax.swing.JPanel;
 import javax.swing.border.BevelBorder;
 
 public class Register extends JFrame {
-	JFrame frame;
+	
 	String textvalue ;
 	 int ln;
 	String Username,Password,Email;
@@ -175,6 +175,7 @@ public class Register extends JFrame {
 		this.setBackground(new Color(255, 255, 255));
 		this.setBounds(80, 300, 450, 301);
 		this.setSize(794,635);
+		this.setResizable(false);
 		this.setLocationRelativeTo(null);
 		this.setDefaultCloseOperation(EXIT_ON_CLOSE);
 		

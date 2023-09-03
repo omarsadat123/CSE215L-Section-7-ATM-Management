@@ -13,6 +13,7 @@ public class BankManagementGUI  {
     	frame.getContentPane().setBackground(new Color(135, 206, 235));
     	frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     	frame.setSize(670, 700);
+    	frame.setResizable(false);
     	frame.getContentPane().setLayout(null);
     	frame.setLocationRelativeTo(null);
     	

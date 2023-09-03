@@ -14,6 +14,7 @@ public class Deposit extends JFrame {
         frame.getContentPane().setBackground(new Color(199, 21, 133));
         frame.setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         frame.setSize(670, 700);
+        frame.setResizable(false);
         frame.getContentPane().setLayout(null);
         frame.setLocationRelativeTo(null);
         frame.setVisible(true);
